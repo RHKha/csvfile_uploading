@@ -1,0 +1,4 @@
+report_date,date_opened,account_number,credit_limit,high_credit,total_outstanding,business_name,address_1,address_2,city,state,zip_code,tax_id_ssn,terms
+01-08-25,10-05-20,ACC12345,50000,45000,20000,ABC Traders,123 Main St,Suite 5,Dhaka,DH,1207,1234567890,Net 30
+02-08-25,15-01-21,ACC54321,75000,70000,35000,XYZ Supplies,456 Second St,,Chittagong,CTG,4000,9876543210,Net 60
+03-08-25,20-03-22,ACC98765,60000,60000,15000,Tech World,789 Third St,Building 12,Khulna,KL,9000,1122334455,Net 45
